@@ -44,5 +44,4 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-lib/screens/quiz_screen.dart
 
