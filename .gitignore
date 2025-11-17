@@ -46,4 +46,4 @@ app.*.map.json
 
 lib/screens/quiz_screen.dart
 lib/services/api_service.dart
-lib/models/question.dart
+
