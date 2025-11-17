@@ -45,5 +45,4 @@ app.*.map.json
 /android/app/release
 
 lib/screens/quiz_screen.dart
-lib/services/api_service.dart
 
